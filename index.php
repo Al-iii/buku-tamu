@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Hallo world</h1>";
+header("Location:create_db.php");
 ?>
